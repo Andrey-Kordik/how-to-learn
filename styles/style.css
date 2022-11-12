@@ -69,12 +69,6 @@
   z-index: 0;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
@@ -98,7 +92,7 @@
   font-weight: normal;
 }
 
-.link_brief { 
+.link_brief {
   text-decoration: none;
 }
 
@@ -153,7 +147,7 @@
   list-style-type: none;
   flex-wrap: wrap;
   justify-content: space-between;
-  
+
 }
 
 .table__cell {
@@ -210,7 +204,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  
+
 }
 .feynman__img {
   width: 867px;
@@ -223,13 +217,13 @@
 
 .kaufman {
  background-color: black;
- overflow: hidden; 
+ overflow: hidden;
  position: relative;
  z-index: -2;
 }
 
 .section-title_theme_dark {
-  width:60%;
+  width: 60%;
   text-align: center;
   margin: 0 auto;
   padding-top: 80px;
@@ -252,18 +246,6 @@
   z-index: 1;
 }
 
-.table {
-  width: 1100px;
-  display:flex;
-  margin: 0 auto;
-  margin-bottom: 100px;
-  padding: 0%;
-  list-style-type: none;
-  flex-wrap: wrap;
-  justify-content: space-between;
-
-}
-
 .table_theme_dark {
   padding-left: 0%;
   z-index: 1;
@@ -280,7 +262,7 @@
  line-height: 1.15;
  font-size: 24px;
  font-weight: 600px;
- color: white; 
+ color: white;
  z-index: 1;
 }
 
