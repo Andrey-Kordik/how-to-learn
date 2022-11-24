@@ -1,4 +1,6 @@
 .khan__quote {
+  display: inline-block;
+  width: 780px;
   margin-bottom: 36px;
   margin-top: 0;
   line-height: 34px;
